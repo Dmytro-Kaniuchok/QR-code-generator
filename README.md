@@ -35,7 +35,7 @@
 
 ## Автор
 
-Dmytro Kaniuchok
-GitHub: github.com/Dmytro-Kaniuchok
-LinkedIn: linkedin.com/in/dmytro-kaniuchok
+Dmytro Kaniuchok  
+GitHub: [github.com/Dmytro-Kaniuchok](https://github.com/Dmytro-Kaniuchok)  
+LinkedIn: [linkedin.com/in/dmytro-kaniuchok](https://www.linkedin.com/in/dmytro-kaniuchok)  
 Email: kanyuchekdmitry@gmail.com
